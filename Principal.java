@@ -21,7 +21,7 @@ public class Principal {
             System.out.println("LO LOGRASTE!! ");
         }
         else {
-            System.out.println("ups, perdiste...");
+            System.out.println("No lo lograste :c ...");
         }
     }
     
